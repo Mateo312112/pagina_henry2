@@ -355,3 +355,21 @@ hr {
 .titulo_cuadro2_pagina3 {
     font-size: 20px;
 }
+
+.textos_caja1 {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.textos_caja2 {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.textos_caja3 {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.contacto{
+    color: #1293d4;
+}
