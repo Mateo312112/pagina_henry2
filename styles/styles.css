@@ -335,6 +335,7 @@ hr {
 .caja3 {
     background-color: #e6e6e6;
     box-shadow: 0px 0px 1px black;
+    margin-bottom: 20px;
     height: 200px;
     width: 900px;
 }
@@ -370,6 +371,73 @@ hr {
     margin-top: 40px;
     margin-left: 30px;
 }
-.contacto{
+
+.contacto {
     color: #1293d4;
+}
+
+.formulario {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 18px;
+}
+
+.formulario p {
+    margin-bottom: 0px;
+    color: black;
+}
+
+.formulario-contacto input {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 35px;
+    margin-bottom: 10px;
+    color: grey;
+}
+
+.titulo-contacto {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.mensaje-form textarea {
+    height: 150px;
+    width: 1000px;
+}
+
+.boton-formulario {
+    width: 1000px;
+    height: 35px;
+    background-color: #e8491d;
+    border: none;
+    color: white;
+}
+
+.pagina4 {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.cuadro-mapa {
+    display: flex;
+    flex-direction: column;
+    margin-right: 250px;
+    margin-top: 40px;
+}
+
+.cuadro {
+    display: flex;
+    padding: 20px;
+    color: white;
+    flex-direction: column;
+    background-color: #35424a;
+    margin-top: 25px;
+    height: 200px;
+    width: 330px;
+
+}
+
+.mapa img {
+    height: 293px;
 }
